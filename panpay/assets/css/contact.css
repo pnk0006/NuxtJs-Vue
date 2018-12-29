@@ -1,0 +1,120 @@
+.contact_page_css{
+    padding: 0rem;
+}
+.contact_us_one_bg{
+    background-image: url(https://static.panpay.cn/static/image/en/contactus/AboutUs_Contact_BG.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    height: 480px;
+}
+.contact_div_imgs{
+margin-bottom: 32px;
+height: 400px;
+margin-top: -330px;
+display: flex;
+}
+.contact_div_imgs div{
+    flex: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+.contact_div_imgs div:nth-child(1){
+    padding-right: 20px;
+}
+.contact_div_imgs div:nth-child(2){
+    padding-left: 20px;
+}
+.contact_div_imgs div:nth-child(3){
+    padding-left: 20px;
+}
+.contact_div_imgs div:nth-child(4){
+    padding-left: 20px;
+}
+.contact_div_imgs div img{
+    max-width: 100%;
+}
+.contact_page_css h1{
+    font-size: 2.5rem;
+    padding: 48px 0px 60px 0px;
+    font-weight: 200;
+}
+.contact_page_css .etv{
+    font-size: 1.5rem;
+    margin-bottom: 1.25rem;
+}
+.contact_page_css p{
+	font-weight: 200;
+    font-size: 1.125rem;
+    color: #4f4f4f;
+    line-height: 2rem;
+}
+.active{border-color: red;}
+
+
+.cntct_sh h2 .spot, .cntct_hk h2 .spot, .cntct_eu h2 .spot, .cntct_sf h2 .spot{display: inline-block;height: 0.625rem;width: 0.625rem;background-color: #FF4081;border-radius: 50%;line-height: 0px;bottom: 0px;margin: 5px 10px 5px 4px;}
+.cntct_sh h2, .cntct_hk h2, .cntct_eu h2, .cntct_sf h2{
+    cursor: pointer;
+	font-weight: 100;
+    font-size: 2.2rem;
+    color: #0f0f0f;
+    margin-bottom: 1.5625rem;
+}
+.cntct_sh .clr_hvr:hover h2, .cntct_hk .clr_hvr:hover h2, .cntct_eu .clr_hvr:hover h2, .cntct_sf .clr_hvr:hover h2{color: #FF4081;}
+.cntct_sh .clr_hvr:hover .spot, .cntct_hk .clr_hvr:hover .spot, .cntct_eu .clr_hvr:hover .spot, .cntct_sf .clr_hvr:hover .spot{background-color: #FF4081;}
+.address_row .cntct_sh p, .address_row .cntct_hk p, .address_row .cntct_eu p, .address_row .cntct_sf p{
+	font-weight: 200;
+    font-size: 0.875rem;
+    color: #4f4f4f;
+    line-height: 26px;
+    padding-left: 1.6rem;    
+    word-break: break-all;
+}
+.contact_form_row h1{
+    font-size: 40px;
+    color: #2C2E2F;
+    letter-spacing: 0;
+    text-align: center;
+}
+.contact_form_row .layui-input-block{margin-left: 0rem;}
+.contact_form_row .layui-form-item{margin-top: 26px;margin-bottom: 0px;}
+.contact_form_row .layui-form-item .layui-input-block input{
+    height: 58px;
+    font-size: 18px;
+    color: #4f4f4f;
+    padding-left: 20px;
+}
+.contact_form_row .layui-form-item .layui-input-block textarea{
+    min-height: 200px;
+    height: 200px;
+    font-size: 18px;
+    color: #4f4f4f;
+    padding-left: 20px;
+}
+.contact_form_row .layui-form-item .layui-input-block .cntct_send{ border: 2px solid #FF4081;
+    border: 2px solid #FF4081;
+    border-radius: 6.25rem;
+    width: 18.75rem;
+    height: 3.625rem;
+    font-size: 1.125rem;
+    color: #FF4081 !important;
+    text-align: center;
+    background-color: #ffffff;
+    margin-bottom: 140px;
+    margin-top: 16px;
+}
+.contact_form_row .layui-form-item .layui-input-block .cntct_send:active,
+.contact_form_row .layui-form-item .layui-input-block .cntct_send:focus,
+.contact_form_row .layui-form-item .layui-input-block .cntct_send:focus-within,
+.contact_form_row .layui-form-item .layui-input-block .cntct_send:visited,
+.contact_form_row .layui-form-item .layui-input-block .cntct_send:hover{
+  background-color: transparent;
+  outline: none;
+}
+.contact_form_row .layui-form-item .layui-input-block label {
+    display: inherit;
+    margin-bottom: 5px;
+    font-weight: 200; 
+    color: red;
+    text-align: left;
+}

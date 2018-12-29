@@ -1,0 +1,315 @@
+
+.home_bg_two{
+min-height: 50rem;
+}
+.home_bg_two h1.t-c{
+margin: 11.1875rem 0rem 4.25rem 0rem;
+font-size: 36px;
+color: #0f0f0f;
+letter-spacing: 0;
+font-weight: 200;
+}
+.home_two_css_lft_2 img{
+  max-width: 100%;
+}
+.home_two_css_ryt ul {
+padding-left: 1.2rem;
+margin-top: 2rem;
+}
+.home_two_css_ryt ul li{
+list-style-type: initial;
+font-size: 2rem;
+color: #2096F3;
+text-align: left;
+}
+.home_two_css_ryt ul li span{
+font-size: 1.2rem;
+color: #2C2E2F;
+letter-spacing: 0;
+line-height: 2.5rem;
+text-align: left;
+font-weight: 100;
+}
+.home_two_css_ryt .btn-danger{
+width: 18.75rem;
+background: #FF4081;
+border-radius: 6.25rem;
+font-size: 1.125rem;
+color: #FFFFFF;
+padding: 1.010rem 0rem;
+margin-top: 3rem;
+margin-left: -3rem;
+border:1px solid #FF4081;
+font-weight: 200;
+background-image: linear-gradient(to left,
+transparent,
+transparent 50%,
+#EE2167 50%,
+#EE2167);
+background-position: 100% 0;
+background-size: 200% 100%;
+transition: all .25s ease-in;
+}
+.home_two_css_ryt .btn-danger:focus,
+.home_two_css_ryt .btn-danger:hover,
+.home_two_css_ryt .btn-danger:active,
+.home_two_css_ryt .btn-danger:focus-within{
+background-position: 0 0;
+outline: none;
+}
+.home_three_css{height: 100%;min-height: 30rem; }
+.home_three_css h1{
+font-weight: 200;
+font-size: 2.2rem;
+color: #0f0f0f;
+margin-top: 8.6875rem;
+margin-bottom: 1.25rem;
+}
+.home_three_css h3{
+font-size: 24px;
+color: #4f4f4f;
+margin-bottom: 5.0625rem;
+font-weight: 200;
+line-height: 40px;
+}
+.home_three_css p{
+font-size: 1.2rem;
+color: #FF4081;
+text-align: center;
+cursor: pointer;
+margin-bottom: 0rem;
+font-weight: 200;
+}
+.home_three_css p img{
+width: 0.9375rem;
+vertical-align: middle;
+margin-left: 0.575rem;
+}
+.home_bg_four{
+height: auto;
+min-height: 62rem;
+background-image: url(https://static.panpay.cn/static/image/en/home_page/Home_BG_Sub.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.home_bg_four h1{
+font-weight: 200;
+font-size: 2.5rem;
+color: #0f0f0f;
+line-height: 3.5rem;
+margin: 2.8rem 0rem 3.75rem;
+}
+.home_bg_four .home_four_css .home_four_adv_css{
+margin: 6.5rem auto 0rem;
+height: auto;
+padding: 0rem 0.2rem;
+}
+.home_four_adv_css .adv_item_css{
+padding: 0rem 1.2rem;
+}
+.home_four_adv_css .adv_item_css .item_div{
+background: #FFFFFF;
+box-shadow: 0 2px 40px 0 #D4DEE7;
+border-radius: 8px;
+min-height: 33.25rem;
+padding: 0rem 1.875rem;
+width: 100%;
+float: left;
+}
+.home_four_adv_css .adv_item_css .item_div img{
+width: 6.25rem;
+height: auto;
+margin: 2.25rem auto;
+display: block;
+cursor: pointer;
+border: 2px solid #d4dee7;
+border-radius: 100px;
+-webkit-transition:all 0.5s ease-out;
+-moz-transition:all 0.5s ease-out;
+-ms-transition:all 0.5s ease-out;
+-o-transition:all 0.5s ease-out;
+transition:all 0.5s initial;
+}
+.home_four_adv_css .adv_item_css .item_div img:hover {
+  -webkit-transform:scale(1.3);
+  -moz-transform:scale(1.3);
+  -ms-transform:scale(1.3);
+  -o-transform:scale(1.3);
+  transform:scale(1.3);
+}
+.home_four_adv_css .adv_item_css .item_div h4{
+font-size: 1.5rem;
+color: #0f0f0f;
+margin-bottom: 1.3125rem;
+}
+.home_four_adv_css .adv_item_css .item_div p{
+font-size: 0.875rem;
+color: #4f4f4f;
+font-weight: 200;
+line-height: 1.625rem;
+padding-bottom: 16px;
+}
+.home_four_adv_css .adv_item_css .item_div p span{
+color: #2096F3;
+}
+.home_bg_four .home_four_seemore{display: block;}
+.home_bg_four .home_four_seemore p{
+font-size: 1.125rem;
+color: #FF4081;
+text-align: center;
+cursor: pointer;
+margin-top: 2.75rem;
+}
+.home_bg_four .home_four_seemore p img{
+width: 0.9375rem;
+vertical-align: middle;
+margin-left: 0.575rem;
+}
+.home_bg_five{
+margin: 70px 0px 0px;
+}
+.home_bg_five h1{
+font-weight: 200;
+font-size: 2.5rem;
+color: #0f0f0f;
+margin: 0rem 0rem 4.3125rem;
+}
+.home_bg_five .home_five_css .swiper-container .swiper-slide .content{
+font-size: 1.125rem;
+color: #4f4f4f;
+letter-spacing: 0;
+line-height: 32px;
+margin: 0 auto;
+font-weight: 200;
+padding: 0rem 9rem;
+}
+.home_bg_five .home_five_css .swiper-container .swiper-slide .line{
+border: 1px solid #D8D8D8;
+width: 12.5rem;
+margin-top: 2.5rem;
+margin-left: 9.25rem;
+}
+.home_bg_five .home_five_css .swiper-container .swiper-slide .img_content{
+padding: 3.4375rem 9rem;
+}
+.home_bg_five .home_five_css .swiper-container .swiper-slide .img_content img{
+width: 5.625rem;
+height: auto;
+border-radius: 3.125rem;
+-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-o-transition: all 1s ease;
+-ms-transition: all 1s ease;
+transition: all 1s ease;
+cursor: pointer;
+}
+.home_bg_five .home_five_css .swiper-container .swiper-slide .img_content h4{
+font-size: 1.125rem;
+color: #0f0f0f;
+line-height: 1.375rem;
+margin-top: 0.625rem;
+}
+.home_bg_five .home_five_css .swiper-container .swiper-slide .img_content p{  
+font-size: 0.875rem;
+color: #0f0f0f;
+line-height: 1.625rem;
+font-weight: 200;
+}
+.home_bg_five .home_five_css .swiper-container .swiper-slide .img_content .p{
+font-weight: 200;
+font-size: 0.875rem;
+color: #4f4f4f;
+line-height: 26px;
+margin-top: 0.625rem;
+}
+.home_bg_five .home_five_css .swiper-button-prev{
+background-image: url(https://static.panpay.cn/static/image/en/home_page/Arrow-left.png);
+left: 0;
+width: 1.5625rem;
+top: 5rem;
+background-size: 100%;
+}
+.home_bg_five .home_five_css .swiper-button-next{
+background-image: url(https://static.panpay.cn/static/image/en/home_page/Arrow-right.png);
+right: 0;
+width: 1.5625rem;
+top: 5rem;
+background-size: 100%;
+}
+.home_bg_five .swiper-pagination-bullet-active{
+border:1px solid #FF4081;
+background: #fff;
+}
+.home_bg_five .swiper-pagination-bullet{
+width: 12px;
+height: 12px;
+}
+.swiper-slide .Cdefault::before{
+content: "\201C";
+font-size: 60px;
+font-weight: bold;
+color: #2096F3;
+position: absolute;
+left: 35px;
+top:-12px;
+}
+.swiper-slide .Cdefault::after{
+content: "";
+}
+.swiper-slide .Cdefault span{
+font-weight:bolder;  
+}
+.swiper-slide span.Cdefault{
+color:#2096F3;
+}
+.swiper-slide .Cdefault2::before{
+content: "\201C";
+font-size: 60px;
+font-weight: bold;
+color: #2096F3;
+position: absolute;
+right: 50px;
+bottom:236px;
+transform: rotate(180deg);  
+}
+.swiper-slide .Cdefault2::after{
+content: "";
+}
+.swiper-slide .Cdefault2 span{
+font-weight:bolder;  
+}
+.swiper-slide span.Cdefault2{
+color:#2096F3;
+}
+.home_bg_five .swip_pgntn{
+bottom: 0rem;
+}
+.home_bg_six .home_six_css{
+margin-bottom: 9.375rem;
+}
+.home_six_css h1{
+font-size: 2.5rem;
+color: #0f0f0f;
+margin: 8.75rem 0rem 5.0625rem;
+font-weight: 200;
+}
+.home_six_css .home_six_css_clients img{
+width: 9rem;
+height: auto;
+vertical-align: middle;
+margin: 0rem auto;
+}
+.home_six_css .home_six_css_clients .col-md-2{
+width: 12.5%;
+}
+.home_six_css .home_six_css_clients .col-md-2 p{
+font-size: 0.965rem;
+color: #4f4f4f;
+text-align: center;
+margin-top: 1.6rem;
+}
+/******RIGHT SIDE ICONS CSS**********/
+.swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet{
+margin: 0 0.5rem;
+}
+

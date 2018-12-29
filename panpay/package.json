@@ -1,0 +1,31 @@
+{
+  "name": "panpay",
+  "version": "1.0.0",
+  "description": "testing",
+  "author": "naveen",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0-beta",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.3.4",
+    "jquery": "^3.3.1",
+    "swiper": "^4.4.2",
+    "svg-sprite-loader": "^3.2.4"
+  },
+  "config": {
+    "nuxt": {
+      "host": "192.168.0.123",
+      "port": "1100"
+    }
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

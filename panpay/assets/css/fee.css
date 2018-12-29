@@ -1,0 +1,24 @@
+.price_page_css{ margin-top: 60px;}
+.price_page_css .hedng{font-size: 40px;color: #2C2E2F;margin-top: 100px;margin-bottom: 73px;}
+.clr_pp{color: #2096F3;}
+.row_headCss{background-color: #F7F7F7;height: 80px;}
+.h62{min-height: 62px;}
+.h80{min-height: 80px;}
+.h86{min-height: 86px;}
+.h125{min-height: 125px;}
+.h126{min-height: 126px;}
+.h127{min-height: 127px;}
+.h128{min-height: 128px;}
+.h253{min-height: 253px;}
+.l-h-80{line-height: 80px;}
+.br-l{border-left: 1px solid #f7f7f7;}
+.br-r{border-right: 1px solid #f7f7f7;}
+.br-t{border-top: 1px solid #f7f7f7;}
+.br-b{border-bottom: 1px solid #f7f7f7;}
+.row_OneCss{height: 180px;}
+.row_lftPdg{height: 180px;}
+.row_cntrPdg{height: 180px;}
+.row_rytPdg{height: 180px;}
+.row_lftPdg p, .row_cntrPdg p, .row_rytPdg p{/*word-break: break-all;*/ margin: 42px 41px 18px 32px;}
+.row_SecondheadCss{background-color: #F7F7F7;}
+.row_SecondheadCss h4{padding: 20px 15px 16px 40px;}

@@ -1,0 +1,102 @@
+.adoutUs_one_bg{
+	margin-top: 3.75rem;
+	background: #2096F3;
+	min-height: 30rem;
+}
+.container_960{
+    width: 960px;
+    margin:0px auto;
+}
+.aboutUs_one_css_lft h2{
+	font-size: 40px;
+	color: #FFFFFF;
+	letter-spacing: 0;
+	margin-bottom: 24px;
+}
+.aboutUs_one_css_lft p{
+	font-size: 14px;
+	color: #FFFFFF;
+	letter-spacing: 0;
+	line-height: 22px;
+	margin:0px;
+}
+.aboutUs_one_css_ryt img{
+	min-width: 470px;
+	min-height: 232px;
+	width: 100%;
+	height: auto;
+	margin-top: 132px;
+}
+.aboutUs_one_css_ryt p{
+	font-size: 14px;
+	color: #FFFFFF;
+	letter-spacing: 0;
+    margin-top: 27px;
+}
+.aboutUs_two_css_lft h2, .aboutUs_two_css_ryt h2, .aboutUs_three_css_ryt h2{
+	font-size: 24px;
+	color: #2096F3;
+	letter-spacing: 0;
+	line-height: 24px;
+}
+.aboutUs_two_css_lft p, .aboutUs_two_css_ryt p, .aboutUs_three_css_lft p, .aboutUs_three_css_ryt p{
+	font-size: 14px;
+	color: #000000;
+	letter-spacing: 0;
+	line-height: 24px;
+}
+.aboutUs_three_css_lft h1{
+	font-size: 40px;
+	color: #2C2E2F;
+	letter-spacing: 0;
+}
+.adoutUs_four_bg{
+	background-color:#F7F7F7;
+	height: 100%;
+	max-height: 580px;
+	margin-bottom: 260px;
+}
+.aboutUs_four_css h1{
+	font-size: 40px;
+	color: #2C2E2F;
+	letter-spacing: 0;
+	padding-top: 80px;
+}
+.aboutUs_four_css_row{
+	margin-top: 80px;
+	min-height: 460px;
+}
+.aboutUs_four_css_lft{
+	cursor: pointer;
+}
+.aboutUs_four_css_lft .allen_bg img{
+	height: 460px;
+}
+.aboutUs_four_css_ryt{
+	cursor: pointer;
+}
+.aboutUs_four_css_ryt .justas_bg img{
+	height: 460px;
+}
+.about_us_team h2{
+	font-size: 40px;
+	color: #2C2E2F;
+	letter-spacing: 0;
+	text-align: center;
+}
+.about_us_team p{
+	font-size: 18px;
+	color: #2C2E2F;
+	letter-spacing: 0;
+	text-align: center;
+	margin-bottom: 2rem;
+}
+.adoutUs_five_bg{
+	margin-bottom: 150px;
+}
+.aboutUs_five_css h1{
+	font-size: 40px;
+	color: #2C2E2F;
+	letter-spacing: 0;
+}
+

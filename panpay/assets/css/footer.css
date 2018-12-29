@@ -1,0 +1,70 @@
+.footer_pdg{
+	padding-top: 2.25rem;
+	padding-bottom: 1.9rem;
+	border-top: 1px solid #DBDBDB;
+}
+.ftr_lft img{
+	width: 5.375rem;
+	height: auto;
+}
+.footer_pdg_css{
+	min-height: 12rem;
+	height: auto;
+}
+.footer_pdg_css h4{
+	color: #2C2E2F;	
+	margin-top: 0.2rem;
+	margin-bottom: 1.8rem;
+	font-size:0.9rem;
+	font-weight: 500;
+}
+.footer_pdg_css p a{
+	color: #2C2E2F;
+	font-weight: 300;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	cursor: pointer;
+	font-size: 0.875rem;
+	padding: 0px;
+}
+.footer_pdg_css img{
+	width: 40px;
+	height: auto;
+	display: inline-block;
+}
+.footer_pdg_css.mobile_brcss .client_p{
+	color: #2C2E2F;
+	font-weight: 300;
+	line-height: normal;
+	cursor: pointer;
+	font-size: 0.875rem;
+	padding-top: 0.1rem;
+}
+@media (min-width:320px) and (max-width:768px){
+.footer_pdg .ftr_lft{
+	padding: 0px 15px;
+}
+.footer_pdg .footer_pdg_css{
+	padding: 0px 15px;
+}
+.mobile_brcss{
+	border-top: 1px solid #D4DEE7;
+}
+.footer_pdg .ftr_lft img{
+	padding-bottom: 30px;
+}
+}
+.second_footer_bg{
+	background-color: #F7F7F7;
+}
+.second_footer p a{
+	font-weight: 200;
+	color: #0f0f0f;
+	letter-spacing: 0.2px;
+}
+.second_footer .footer_english{
+	color: #0f0f0f;
+	letter-spacing: 0.17px;
+	font-family: unset;
+	font-weight: 200;
+}
